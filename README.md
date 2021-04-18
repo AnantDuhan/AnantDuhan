@@ -1,7 +1,12 @@
-### Hi there 👋
+### Hello👋,I'm Anant Duhan 
 
 <!--
 **AnantDuhan/AnantDuhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+**A passionate coder and an aspiring Android Developer. Always eager to learn new technologies and grab some new skills and love to follow my passion on Self-growth. Upcoming Front-End Developer..... **
+
+<img src = "https://github-readme-stats.vercel.app/api?username=AnantDuhan&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+
 
 Here are some ideas to get you started:
 
