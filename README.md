@@ -51,17 +51,8 @@ A passionate coder and an aspiring Android Developer. Always eager to learn new 
   <img src="https://activity-graph.herokuapp.com/graph?username=AnantDuhan&bg_color=0d1017&color=00ff00&point=11b819&area=true&line=00ff00&hide_border=true" alt="Contribution graph" />
   <img align="center" width="420" src="https://github-readme-stats.vercel.app/api?username=AnantDuhan&show_icons=true&theme=dark" alt="Stats" />
   <img align="center" width="420" src="https://github-readme-streak-stats.herokuapp.com/?user=AnantDuhan&theme=dark" alt="Stats" />
+  <img align="center" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnantDuhan&layout=compact&theme=dark" alt="Stats">
 </p>
-
-
-<p><img src = "https://github-readme-stats.vercel.app/api?username=AnantDuhan&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"></p>
-
-<p><img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=AnantDuhan&layout=compact"></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AnantDuhan&" alt="AnantDuhan" /></p>
-
-<img src="https://camo.githubusercontent.com/7687194d9d1d7b89a4fb6260752e909de6ebbf24eab21c4112a956f59382ffc5/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f73616e736b726974696b686172653134322f636f756e742e737667" >
-
 
 [twitter]: https://twitter.com/duhan_anant?lang=en
 [youtube]: https://www.youtube.com/channel/UCHELyvXUOk0FwWjx9UWPkow
