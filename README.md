@@ -22,7 +22,7 @@ A passionate coder and an aspiring Android Developer. Always eager to learn new 
 </br>
 </br>
 
-Stats:
+### Stats:
 
 
 <img src = "https://github-readme-stats.vercel.app/api?username=AnantDuhan&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
