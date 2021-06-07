@@ -5,7 +5,7 @@ A passionate coder and an aspiring Android Developer. Always eager to learn new 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AnantDuhan" alt="AnantDuhan" /></a> </p>
 
 
-- 🔭 I’m currently working on **a NFT platform**
+- 🔭 I’m currently working on **a React Project**
 
 - 🌱 I’m currently learning **MERN**
 
