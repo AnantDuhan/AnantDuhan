@@ -2,6 +2,13 @@
 
 A passionate coder and an aspiring Android Developer. Always eager to learn new technologies and grab some new skills and love to follow my passion on Self-growth. Upcoming Full-Stack Developer.....
 
+<table>
+  <tr>
+    <td>You are visitor</td>
+    <td><img src="https://profile-counter.glitch.me/AnantDuhan/count.svg" alt="vistor count" height="30" /></td>
+  </tr>
+</table>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AnantDuhan" alt="AnantDuhan" /></a> </p>
 
 
