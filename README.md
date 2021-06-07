@@ -1,8 +1,9 @@
 ### Hello👋,I'm Anant Duhan 
 
+A passionate coder and an aspiring Android Developer. Always eager to learn new technologies and grab some new skills and love to follow my passion on Self-growth. Upcoming Full-Stack Developer.....
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AnantDuhan" alt="AnantDuhan" /></a> </p>
 
-A passionate coder and an aspiring Android Developer. Always eager to learn new technologies and grab some new skills and love to follow my passion on Self-growth. Upcoming Full-Stack Developer.....
 
 - 🔭 I’m currently working on **a NFT platform**
 
