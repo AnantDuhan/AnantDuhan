@@ -1,6 +1,6 @@
 ### Hello👋,I'm Anant Duhan 
 
-A passionate coder and an aspiring Android Developer. Always eager to learn new technologies and grab some new skills and love to follow my passion on Self-growth. Upcoming Full-Stack Developer.....
+A passionate coder and an aspiring Android & Web Developer. Always eager to learn new technologies and grab some new skills and love to follow my passion on Self-growth. Upcoming Full-Stack Developer.....
 
 <table>
   <tr>
