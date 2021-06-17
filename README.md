@@ -1,15 +1,17 @@
-### Hello👋,I'm Anant Duhan 
+<p align="center">
+<img src="https://github.com/AnantDuhan/AnantDuhan/blob/main/Developer.gif" width="200px">
+</p>
+<h1 align="center">Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" style="max-width:100%;"><𝚌𝚘𝚍𝚎𝚛𝚜/>!, I'm <a href="https://www.linkedin.com/in/AnantDuhan/"> Anant Duhan </a><img src="https://github.com/AnantDuhan/AnantDuhan/blob/main/Developer.gif" width="65px"></h1>
+
+<!-- [![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello,Programmer!-Welcome-orange.svg?style=flat&logo=github)](https://github.com/AnantDuhan)  -->
+<!-- [![followers](https://img.shields.io/github/followers/AnantDuhan?style=social)](https://github.com/AnantDuhan?tab=followers)  -->
+<!-- [![Repos Badge](https://badges.pufler.dev/repos/AnantDuhan)](https://github.com/AnantDuhan?tab=repositories)  -->
+<!-- [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/AnantDuhan/)  -->
+<!-- [![Profile Visitors](https://visitor-badge.glitch.me/badge?page_id=AnantDuhan.profileviews-badge)](https://github.com/AnantDuhan)  -->
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AnantDuhan" alt="AnantDuhan" /></a> </p>
 
 A passionate coder and an aspiring Android & Web Developer. Always eager to learn new technologies and grab some new skills and love to follow my passion on Self-growth. Upcoming Full-Stack Developer.....
-
-<table>
-  <tr>
-    <td>You are visitor</td>
-    <td><img src="https://profile-counter.glitch.me/AnantDuhan/count.svg" alt="vistor count" height="30" /></td>
-  </tr>
-</table>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AnantDuhan" alt="AnantDuhan" /></a> </p>
 
 
 - 🔭 I’m currently working on **a React Project**
@@ -66,6 +68,13 @@ A passionate coder and an aspiring Android & Web Developer. Always eager to lear
   <img align="center" width="420" src="https://github-readme-streak-stats.herokuapp.com/?user=AnantDuhan&theme=light" alt="Stats" />
   <img align="center" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnantDuhan&layout=compact&theme=light" alt="Stats">
 </p>
+
+<table>
+  <tr>
+    <td>You are visitor</td>
+    <td><img src="https://profile-counter.glitch.me/AnantDuhan/count.svg" alt="vistor count" height="30" /></td>
+  </tr>
+</table>
 
 [twitter]: https://twitter.com/duhan_anant?lang=en
 [youtube]: https://www.youtube.com/channel/UCHELyvXUOk0FwWjx9UWPkow
