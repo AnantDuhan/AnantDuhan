@@ -57,13 +57,9 @@ A passionate coder and an aspiring Android & Web Developer. Always eager to lear
 <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 </p>
 
-</br>
-</br>
-
 ### Stats:
 
 <p align="center"> 
-  <img src="https://activity-graph.herokuapp.com/graph?username=AnantDuhan&bg_color=0d1017&color=00ff00&point=11b819&area=true&line=00ff00&hide_border=true" alt="Contribution graph" />
   <img align="center" width="420" src="https://github-readme-stats.vercel.app/api?username=AnantDuhan&show_icons=true&theme=light" alt="Stats" />
   <img align="center" width="420" src="https://github-readme-streak-stats.herokuapp.com/?user=AnantDuhan&theme=light" alt="Stats" />
   <img align="center" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnantDuhan&layout=compact&theme=light" alt="Stats">
