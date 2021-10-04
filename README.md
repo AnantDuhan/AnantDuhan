@@ -24,7 +24,7 @@ A passionate coder and an aspiring Android & Web Developer. Always eager to lear
 
 - ⚡ Fun fact **I like web and android development**
 
-- ⚡ 4⭐ at <a href="https://www.codechef.com/users/anantduhan">CodeChef</a>(1800 MAX) & newbie at <a href="https://codeforces.com/profile/AnantDuhan">Codeforces</a>(913 MAX)
+- ⚡ 4⭐ at <a href="https://www.codechef.com/users/anantduhan">CodeChef</a>(1800 MAX) & newbie at <a href="https://codeforces.com/profile/AnantDuhan">Codeforces</a>(1030 MAX)
 
 ### Connect with me:
 
