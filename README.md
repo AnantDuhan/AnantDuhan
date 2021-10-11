@@ -1,7 +1,7 @@
 <p align="center">
 <img src="https://github.com/AnantDuhan/AnantDuhan/blob/main/Developer.gif" width="200px">
 </p>
-<h1 align="center">Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" style="max-width:100%;"><𝚌𝚘𝚍𝚎𝚛𝚜/>!, I'm <a href="https://www.linkedin.com/in/AnantDuhan/"> Anant Duhan </a><img src="https://github.com/AnantDuhan/AnantDuhan/blob/main/Developer.gif" width="65px"></h1>
+<h1 align="center">Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" style="max-width:100%;"><𝚌𝚘𝚍𝚎𝚛𝚜/>!, I'm <a href="https://www.linkedin.com/in/AnantDuhan/"> Anant Duhan </a></h1>
 
 <!-- [![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello,Programmer!-Welcome-orange.svg?style=flat&logo=github)](https://github.com/AnantDuhan)  -->
 <!-- [![followers](https://img.shields.io/github/followers/AnantDuhan?style=social)](https://github.com/AnantDuhan?tab=followers)  -->
