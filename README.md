@@ -14,7 +14,7 @@
 A passionate coder and an aspiring Android & Web Developer. Always eager to learn new technologies and grab some new skills and love to follow my passion on Self-growth. Upcoming Full-Stack Developer.....
 
 
-- 🔭 I’m currently working on **a React Project**
+- 🔭 I’m currently working on **a Full Stack Project**
 
 - 🌱 I’m currently learning **MERN**
 
