@@ -26,6 +26,8 @@ A passionate coder and an aspiring Android & Web Developer. Always eager to lear
 
 - ⚡ 4⭐ at <a href="https://www.codechef.com/users/anantduhan">CodeChef</a>(1800 MAX) & newbie at <a href="https://codeforces.com/profile/AnantDuhan">Codeforces</a>(1030 MAX)
 
+- ⚡My LeetCode Profile - <a href="https://leetcode.com/AnantDuhan/">AnantDuhan</a> - 300+ Questions Solved
+
 ### Connect with me:
 
 [<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
