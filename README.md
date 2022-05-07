@@ -62,7 +62,7 @@ A passionate coder and an aspiring **Android & Full Stack Web Developer**. Alway
 <a href="https://handlebarsjs.com/" target="_blank"> <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/handlebars-logo.png" alt="handlebars" width="40" height="40"/> </a>
 <a href="https://tailwindcss.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" alt="tailwindcss" width="40" height="40"/> </a>
 <a href="https://jestjs.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a>
-<a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
+<a href="https://go.dev/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1200px-Go_Logo_Blue.svg.png" alt="golang" width="60" height="40"/> </a>
 </p>
 
 ### Stats:
