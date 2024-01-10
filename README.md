@@ -14,7 +14,7 @@
 A passionate coder and an aspiring **Android & Full Stack Web Developer**. Always eager to learn new technologies and grab some new skills and love to follow my passion on Self-growth.....
 
 
-- 🔭 I’m currently working on **Ecommerce MERN App with Admin Dashboard**
+- 🔭 I’m currently working on **E-Learning Platform MERN App with Admin Dashboard**
 
 - 💻 I’m currently **Interning at @Hestabit as Software Engineer**
 
