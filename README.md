@@ -16,7 +16,7 @@ A passionate coder and an aspiring **Android & Full Stack Web Developer**. Alway
 
 - 🔭 I’m currently working on **E-Learning Platform MERN App with Admin Dashboard**
 
-- 💻 I’m currently **Interning at @Hestabit as Software Engineer**
+- 💻 I’m currently **working as Associate Software Engineer at @BGSW**
 
 - 👯 I’m looking to collaborate on **Front End and Android Projets**
 
@@ -26,7 +26,8 @@ A passionate coder and an aspiring **Android & Full Stack Web Developer**. Alway
 
 - ⚡ 4⭐ at <a href="https://www.codechef.com/users/anantduhan">CodeChef</a>(1800 MAX)
 
-- ⚡My LeetCode Profile - <a href="https://leetcode.com/AnantDuhan/">AnantDuhan</a> - 600+ Questions Solved
+- ⚡My LeetCode Profile - <a href="https://leetcode.com/AnantDuhan/">AnantDuhan</a> - 60
+90+ Questions Solved
 
 ### Connect with me:
 
