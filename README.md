@@ -26,8 +26,7 @@ A passionate coder and an aspiring **Android & Full Stack Web Developer**. Alway
 
 - ⚡ 4⭐ at <a href="https://www.codechef.com/users/anantduhan">CodeChef</a>(1800 MAX)
 
-- ⚡My LeetCode Profile - <a href="https://leetcode.com/AnantDuhan/">AnantDuhan</a> - 60
-90+ Questions Solved
+- ⚡My LeetCode Profile - <a href="https://leetcode.com/AnantDuhan/">AnantDuhan</a> - 690+ Questions Solved
 
 ### Connect with me:
 
