@@ -1,86 +1,108 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Anant%20Duhan&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%40%20Bosch%20Global%20Software%20Technologies&descAlignY=58&descSize=16" width="100%" />
+
+<a href="https://github.com/AnantDuhan">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=4FC3F7&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer+%E2%80%94+Angular+%2B+Node.js;Building+event-driven+systems+with+Kafka;Shipping+%40limiter%2Fcore+%E2%80%94+a+Node.js+rate+limiter;Always+learning%2C+always+shipping" alt="Typing SVG" />
+</a>
+
+<p>
+  <a href="https://www.linkedin.com/in/anantduhan/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:aanantduhan@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://x.com/duhan_anant"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://leetcode.com/AnantDuhan_"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://www.codechef.com/users/anantduhan"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
+</p>
+
+</div>
+
+---
+
+## 👋 About me
+
+I'm a **Software Engineer at Bosch Global Software Technologies (BGSW)**, working across Angular frontends, Node.js backends and the automation tooling that ties them together. I like building systems that other engineers depend on — and making them boring to operate.
+
+```ts
+const anant = {
+  role: "Software Engineer @ BGSW",
+  location: "India",
+  stack: ["Angular", "Node.js", "TypeScript", "Kafka"],
+  currentlyBuilding: "@limiter/core",
+  education: "B.Tech CSE, SRM Institute of Science and Technology",
+  openTo: ["Full Stack", "Backend", "Remote roles"],
+};
+```
+
+## 🏗️ What I've built at work
+
+- **Event-driven architecture on Apache Kafka** serving 500+ internal teams
+- **Unified Frontend System** consolidating ticket workflows across five platforms into a single interface
+- **Azure AD SSO** securing access for 100K+ users
+- **Fosslens** — open-source compliance tooling that onboarded 1,500+ GitHub repositories with automated scan triggering
+- **SWTBot test suites** that significantly reduced manual testing effort
+
+## 🚀 Featured project
+
+### [`@limiter/core`](https://github.com/AnantDuhan/limiter-core) &nbsp;![status](https://img.shields.io/badge/status-in%20progress-yellow?style=flat-square)
+
+A production-grade, distributed rate limiter for Node.js — because every team ends up rebuilding one in-house.
+
+- Token Bucket and Sliding Window strategies with configurable burst
+- In-memory backend for development, Redis backend for distributed production
+- Same API across backends, so dev → prod is a config change
+- Clock-skew handling and `Retry-After` calculation built in
+- TypeScript-first, with Express and Fastify adapters on the roadmap
+
+## 🛠️ Tech stack
+
 <p align="center">
-<img src="https://github.com/AnantDuhan/AnantDuhan/blob/main/Developer.gif" width="200px">
+  <b>Languages</b><br/>
+  <img src="https://skillicons.dev/icons?i=ts,js,python,go,c,cpp,html,css&perline=8" />
 </p>
-<h1 align="center">Hello <𝚌𝚘𝚍𝚎𝚛𝚜/>!, I'm <a href="https://www.linkedin.com/in/AnantDuhan/"> Anant Duhan </a></h1>
-
-<!-- [![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello,Programmer!-Welcome-orange.svg?style=flat&logo=github)](https://github.com/AnantDuhan)  -->
-<!-- [![followers](https://img.shields.io/github/followers/AnantDuhan?style=social)](https://github.com/AnantDuhan?tab=followers)  -->
-<!-- [![Repos Badge](https://badges.pufler.dev/repos/AnantDuhan)](https://github.com/AnantDuhan?tab=repositories)  -->
-<!-- [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/AnantDuhan/)  -->
-<!-- [![Profile Visitors](https://visitor-badge.glitch.me/badge?page_id=AnantDuhan.profileviews-badge)](https://github.com/AnantDuhan)  -->
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AnantDuhan" alt="AnantDuhan" /></a> </p>
-
-A passionate coder and an aspiring **Android & Full Stack Web Developer**. Always eager to learn new technologies and grab some new skills and love to follow my passion on Self-growth.....
-
-
-- 🔭 I’m currently working on **E-Learning Platform MERN App with Admin Dashboard**
-
-- 💻 I’m currently **working as Associate Software Engineer at @BGSW**
-
-- 👯 I’m looking to collaborate on **Front End and Android Projets**
-
-- 📫 How to reach me **duhananant@gmail.com**
-
-- ⚡ Fun fact **I like web and android development**
-
-- ⚡ 4⭐ at <a href="https://www.codechef.com/users/anantduhan">CodeChef</a>(1800 MAX)
-
-- ⚡My LeetCode Profile - <a href="https://leetcode.com/AnantDuhan/">AnantDuhan</a> - 690+ Questions Solved
-
-### Connect with me:
-
-[<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
-
-### Languages and Tools:
-
-<p align="left">
-<a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-</a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-<a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-<a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-<a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/> </a> 
-<a href="https://nodejs.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" alt="nodejs" width="40" height="40"/> </a>
-  <a href="https://www.python.org/"> <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
-<a href="https://threejs.org/" target="_blank"> <img src="https://aws1.discourse-cdn.com/standard17/uploads/threejs/original/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751.png" alt="threejs" width="40" height="40"/> </a>
-<!-- <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> -->
-<a href="https://pugjs.org" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a>
-<a href="https://handlebarsjs.com/" target="_blank"> <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/handlebars-logo.png" alt="handlebars" width="40" height="40"/> </a>
-<a href="https://tailwindcss.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" alt="tailwindcss" width="40" height="40"/> </a>
-<a href="https://jestjs.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a>
-<a href="https://go.dev/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1200px-Go_Logo_Blue.svg.png" alt="golang" width="60" height="40"/> </a>
+<p align="center">
+  <b>Frontend</b><br/>
+  <img src="https://skillicons.dev/icons?i=angular,react,redux,nextjs,tailwind,bootstrap,threejs&perline=8" />
+</p>
+<p align="center">
+  <b>Backend &amp; Data</b><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,kafka,redis,mongodb,firebase&perline=8" />
+</p>
+<p align="center">
+  <b>Cloud, Tooling &amp; Testing</b><br/>
+  <img src="https://skillicons.dev/icons?i=azure,git,linux,jest&perline=8" />
 </p>
 
-### Stats:
+## 🧩 Problem solving
 
-<p align="center"> 
-  <img align="center" width="420" src="https://github-readme-stats.vercel.app/api?username=AnantDuhan&show_icons=true&theme=light" alt="Stats" />
-  <img align="center" width="420" src="https://github-readme-streak-stats.herokuapp.com/?user=AnantDuhan&theme=light" alt="Stats" />
-  <img align="center" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnantDuhan&layout=compact&theme=light" alt="Stats">
-</p>
+- 🟧 **1100+** problems solved on [LeetCode](https://leetcode.com/AnantDuhan/)
+- ⭐ **4★ on CodeChef** — max rating 1800
 
-<table>
-  <tr>
-    <td>You are visitor</td>
-    <td><img src="https://profile-counter.glitch.me/AnantDuhan/count.svg" alt="vistor count" height="30" /></td>
-  </tr>
-</table>
+## 📊 GitHub stats
 
-[twitter]: https://twitter.com/duhan_anant?lang=en
-[youtube]: https://www.youtube.com/channel/UCHELyvXUOk0FwWjx9UWPkow
-[instagram]: https://www.instagram.com/_anantduhan_/
-[linkedin]: inkedin.com/in/anantduhan/
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=AnantDuhan&show_icons=true&hide_border=true&theme=tokyonight&bg_color=00000000" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AnantDuhan&show_icons=true&hide_border=true&bg_color=00000000" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AnantDuhan&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnantDuhan&layout=compact&hide_border=true&bg_color=00000000" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=AnantDuhan&hide_border=true&theme=tokyonight&background=00000000" />
+  <img src="https://streak-stats.demolab.com?user=AnantDuhan&hide_border=true&background=00000000" />
+</picture>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=AnantDuhan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" />
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=AnantDuhan&label=Profile%20views&color=4FC3F7&style=flat-square" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%" />
